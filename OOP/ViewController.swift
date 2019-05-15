@@ -18,7 +18,12 @@ class ViewController: UIViewController {
     }
     //funcc
     func bolobolo(){
-        
+        var x = 0
+        if x==0 {
+            print("bolobolo")
+        }else{
+            print("hiyahiyahiya")
+        }
     }
 }
 
