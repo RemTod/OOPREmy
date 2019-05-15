@@ -16,10 +16,9 @@ class ViewController: UIViewController {
         print("This is my first update")
         print("second update")
     }
-
+    //funcc
     func bolobolo(){
-        <#function body#>
+        
     }
-// Initial
 }
 
